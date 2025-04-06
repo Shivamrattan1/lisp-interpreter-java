@@ -1,0 +1,1 @@
+// LispException.java content
